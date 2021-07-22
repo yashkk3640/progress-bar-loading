@@ -1,10 +1,10 @@
 {
-  "name": "progress-bar-loading",
+  "name": "@yashkk3640/progress-bar-loading",
   "version": "1.0.0",
   "description": "Showing fake progress bar for process is still running",
   "author": "yashkk3640",
   "license": "MIT",
-  "repository": "yashkk3640/progress-bar-loading",
+  "repository": "git://github.com/yashkk3640/progress-bar-loading",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",

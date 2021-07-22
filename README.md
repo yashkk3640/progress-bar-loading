@@ -31,6 +31,11 @@ const Example = ({...rest}) => {
 }
 ```
 
+## Examples
+
+Here is a [demo](https://yashkk3640.github.io/progress-bar-loading/) of ProgressBar
+You can open it and check how it's work and also play with progress-bar
+
 ## License
 
 MIT © [Yash Khatri](https://github.com/yashkk3640)
