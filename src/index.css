@@ -18,6 +18,7 @@
 @keyframes complete {
   0% {
     width: 90%;
+    opacity: 1;
   }
   90% {
     width: 100%;
