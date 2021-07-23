@@ -37,3 +37,9 @@ button {
   top: 80%;
   transform: translate(-50%, -50%);
 }
+
+input {
+  margin: 0px 15px 0px 5px;
+  width: 80px;
+  border-radius: 5px;
+}

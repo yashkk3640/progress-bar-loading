@@ -15,7 +15,7 @@
     "build": "yarn micro-bundle",
     "start": "yarn micro-bundle --watch --no-sourcemap",
     "prepare": "run-s build",
-    "micro-bundle": "microbundle-crl --no-compress --format esm src/{index}.js --css-modules false modern,cjs",
+    "micro-bundle": "microbundle-crl --format esm src/{index}.js --css-modules false modern,cjs",
     "test": "run-s test:unit test:lint test:build",
     "test:build": "run-s build",
     "test:lint": "eslint .",
