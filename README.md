@@ -2,8 +2,6 @@
 
 > Showing fake `progress bar` for showing process is still running
 
-[![NPM](https://img.shields.io/npm/v/progress-bar-loading.svg)](https://www.npmjs.com/package/@yashkk3640/progress-bar-loading) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-
 ## Install
 
 ```bash

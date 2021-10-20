@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import { ProgressBar } from 'progress-bar-loading/dist'
+import { ProgressBar } from 'progress-bar-loading'
 import 'progress-bar-loading/dist/index.css'
 
 const App = () => {
